@@ -13,7 +13,6 @@ export default function NotFound() {
           start.solidjs.com
         </a>{" "}
         Uh oh, this page doesnt exist. Try again
-        <Link to="/">Go Home</Link>
       </p>
     </main>
   );
