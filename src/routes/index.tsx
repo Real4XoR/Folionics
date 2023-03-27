@@ -11,7 +11,7 @@ export default function Home() {
         Visit{" "}
         <a href="https://github.com/Real4XoR" target="_blank">
           GitHub
-        </a>{" "}
+        </a>
         to check out my other projects
       </p>
     </main>

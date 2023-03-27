@@ -7,16 +7,12 @@ export default function Home() {
   <a href="https://codepen.io/uiswarup/full/yLzypyY" target="_blank">
     <header class="top-header">
   </header>
-
-  <!--dust particel-->
   <div>
     <div class="starsec"></div>
     <div class="starthird"></div>
     <div class="starfourth"></div>
     <div class="starfifth"></div>
   </div>
-  <!--Dust particle end--->
-
 
   <div class="lamp__wrap">
     <div class="lamp">
@@ -28,9 +24,7 @@ export default function Home() {
       <div class="light"></div>
     </div>
   </div>
-  <!-- END Lamp -->
   <section class="error">
-    <!-- Content -->
     <div class="error__content">
       <div class="error__message message">
         <h1 class="message__title">Page Not Found</h1>
@@ -40,9 +34,7 @@ export default function Home() {
         <a href="" target="_blanck" class="e-nav__link"></a>
       </div>
     </div>
-    <!-- END Content -->
-
   </section>
 
     </a>
-)
+)}
