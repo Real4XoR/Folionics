@@ -1,5 +1,10 @@
 import { Title } from "solid-start";
 
 export default function Home() {
-  <p>About page</p>
+  return (
+    <main>
+      <Title>About</Title>
+      <h1>About page</h1>
+    </main>
+  );
 }
